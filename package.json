@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app",
-    "start": "npm install && node app.js"
+    "start": "node app.js"
   },
   "author": "",
   "license": "ISC",
